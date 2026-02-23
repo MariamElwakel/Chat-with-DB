@@ -18,7 +18,7 @@ This project includes two implementations:
 
 ---
 
-# 🧪 Setup (Windows)
+# 🧪 Setup
 
 ## 1️⃣ Create Virtual Environment
 
