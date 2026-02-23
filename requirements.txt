@@ -1,0 +1,14 @@
+python-dotenv
+sqlalchemy
+streamlit
+langchain
+langchain-google-genai
+langchain-core
+google-generativeai
+psycopg2-binary
+langchain_openai
+langsmith
+langchain_community
+chromadb 
+sentence-transformers
+langchain_chroma
